@@ -1,6 +1,6 @@
 # zed-one-theme for vscode
 
-![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/gzqccnu/zed-one-theme-vsc/total?color=pink&label=GitHub%20Downloads)
+![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/lrisguan/zed-one-theme-vsc/total?color=pink&label=GitHub%20Downloads)
 
 ## Explanation
 > [!Note]
@@ -16,7 +16,7 @@ Support highlight markdown file.
 ## Quick start
 
 ### Using release
-You can install this extension in [release](https://github.com/gzqccnu/zed-one-theme-vsc/releases/download/0.1.0/zed-one-theme-0.1.0.vsix).
+You can install this extension in [release](https://github.com/lrisguan/zed-one-theme-vsc/releases/download/0.1.0/zed-one-theme-0.1.0.vsix).
 Open your vscode, type `ctrl+shift+p`, then input **install from vsix**. Now you just need to find
 the place you downloaded `the vsix file` and click it. 
 
@@ -24,7 +24,7 @@ the place you downloaded `the vsix file` and click it.
 
 - First clone this repo.
 ```bash
-git clone https://github.com/gzqccnu/zed-one-theme-vsc.git
+git clone https://github.com/lrisguan/zed-one-theme-vsc.git
 ```
 - Then build the extension
 > [!Tip]
