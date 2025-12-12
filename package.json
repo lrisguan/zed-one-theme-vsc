@@ -6,10 +6,10 @@
   "engines": {
     "vscode": "^1.60.0"
   },
-  "publisher": "gzqccnu",
+  "publisher": "lrisguan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gzqccnu/zed-one-theme-vsc.git"
+    "url": "https://github.com/lrisguan/zed-one-theme-vsc.git"
   },
   "keywords": [
     "theme",
@@ -23,9 +23,9 @@
     "Themes"
   ],
   "bugs": {
-    "url": "https://github.com/gzqccnu/zed-one-theme-vsc/issues"
+    "url": "https://github.com/lrisguan/zed-one-theme-vsc/issues"
   },
-  "homepage": "https://github.com/gzqccnu/zed-one-theme-vsc#readme",
+  "homepage": "https://github.com/lrisguan/zed-one-theme-vsc#readme",
   "contributes": {
     "themes": [
       {
