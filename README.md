@@ -1,4 +1,8 @@
-# zed-one-theme for vscode
+<center>
+<img src="./images/logo.png"> </img>
+<h1>zed-one-theme for vscode</h1>
+</center>
+
 
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/lrisguan/zed-one-theme-vsc/total?color=pink&label=GitHub%20Downloads)
 
