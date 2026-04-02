@@ -74,6 +74,55 @@
   },
   "tokenColors": [
     {
+      "scope": "keyword.cmake",
+      "settings": {
+        "foreground": "#A449AB"
+      }
+    },
+    {
+      "scope": "comment.source.cmake",
+      "settings": {
+        "foreground": "#A2A3A7",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "string.source.cmake",
+      "settings": {
+        "foreground": "#649F57"
+      }
+    },
+    {
+      "scope": "storage.source.cmake",
+      "settings": {
+        "foreground": "#AD6E25"
+      }
+    },
+    {
+      "scope": "variable.source.cmake",
+      "settings": {
+        "foreground": "#383A41"
+      }
+    },
+    {
+      "scope": "entity.source.cmake",
+      "settings": {
+        "foreground": "#3882B7"
+      }
+    },
+    {
+      "scope": "constant.source.cmake",
+      "settings": {
+        "foreground": "#D3604F"
+      }
+    },
+    {
+      "scope": "argument.source.cmake",
+      "settings": {
+        "foreground": "#242529"
+      }
+    },
+    {
       "scope": [
         "keyword.control.import",
         "storage.modifier",
