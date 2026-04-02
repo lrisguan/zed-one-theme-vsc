@@ -1,7 +1,4 @@
-<center>
-<img src="./images/logo.png"> </img>
-<h1>zed-one-theme for vscode</h1>
-</center>
+<p align="center"> <img src="./images/logo.png" alt="Logo"> </p> <h1 align="center">zed-one-theme for vscode</h1>
 
 
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/lrisguan/zed-one-theme-vsc/total?color=pink&label=GitHub%20Downloads)
