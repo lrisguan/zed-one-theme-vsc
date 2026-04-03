@@ -1,7 +1,10 @@
-<p align="center"> <img src="./images/logo.png" alt="Logo"> </p> <h1 align="center">zed-one-theme for vscode</h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/lrisguan/zed-one-theme-vsc/refs/heads/master/images/logo.png" alt="Logo"> </p> <h1 align="center">zed-one-theme for vscode</h1>
 
 
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/lrisguan/zed-one-theme-vsc/total?color=pink&label=GitHub%20Downloads)
+
+## Introduction
+A Visual Studio Code extension offers you zed like theme.
 
 ## Explanation
 > [!Note]
@@ -13,6 +16,8 @@
 A **zed-like** theme for vsc. Now support **light** theme and **dark** theme
 - **markdown support:**
 Support highlight markdown file.
+- **cmake support:**
+Support highlight **CMakeLists.txt**.
 
 ## Quick start
 
@@ -24,24 +29,30 @@ the place you downloaded `the vsix file` and click it.
 ### Build on your own
 
 - First clone this repo.
-```bash
-git clone https://github.com/lrisguan/zed-one-theme-vsc.git
-```
+    ```bash
+    git clone https://github.com/lrisguan/zed-one-theme-vsc.git
+    ```
 - Then build the extension
 > [!Tip]
 > Ensure you have node.
 > you can run below to test.
+
 ```bash
 node --version
 ```
 > If you not have one, install from the [official website](https://nodejs.org/) 
-
-```bash
-cd zed-one-theme-vsc
-npx @vscode/vsce package
-```
+- For short-term pack
+    ```bash
+    cd zed-one-theme-vsc
+    npx @vscode/vsce package
+    ```
+- For long-term pack
+    ```bash
+    npm install -g @vscode/vsce
+    vsce package
+    ```
 > [!Important]
-> When running above command, you need to run your terminal as **Administrator**.
+> When running above command, you need to run your terminal as **Administrator** in Windows.
 
 - After you run this, in your folder will generate a file ends with **.vsix**.
 
@@ -54,4 +65,7 @@ install from vsix
 - Now you can enjoy the themes.
 
 ## Bug or others
-You can add issues.
+You can add issues or republish your own.
+
+## License
+MIT
