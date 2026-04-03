@@ -2,7 +2,7 @@
   "name": "zed-one-theme-for-vsc",
   "displayName": "ZED One Theme for Visual Studio Code.",
   "description": "ZED's style, VS Code's compromise.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.60.0"
   },
